@@ -76,7 +76,7 @@ Implementado con `inquirer`, permite:
 
 ## 📊 Diagrama de Clases UML
 
-![Diagrama de Clases](./uml/diagrama_rpg.png) <!-- Asegúrate de subir la imagen en esa ruta -->
+![Diagrama de Clases](./diagramaUML/diagrama_rpg.png) <!-- Asegúrate de subir la imagen en esa ruta -->
 
 ---
 
