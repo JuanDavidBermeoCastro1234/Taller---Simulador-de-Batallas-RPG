@@ -82,7 +82,7 @@ Implementado con `inquirer`, permite:
 
 ## 🎬 Video Explicativo
 
-[]
+[https://drive.google.com/file/d/1N6mXSts8L_o2tIlUQusB2LvLvqe62BqA/view?usp=sharing]
 
 ## 🚀 Cómo Ejecutar
 
